@@ -1,1 +1,36 @@
-/* Start coding here */
+* {
+  margin: 0;
+}
+.box-1 {
+  background-color: #92aabd;
+  display: flex;
+  width: 100vw;
+  height: 70px;
+  padding: 20px;
+}
+
+.tex-1 {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-2 {
+  background-color: #e4e9ed;
+  margin-left: 40px;
+  width: 30vw;
+}
+
+.text-2 {
+  display: block;
+}
+
+.box-3 {
+  background-color: #e4e9ed;
+  margin-left: 40px;
+  width: 30vw;
+}
+
+.text-3 {
+  display: block;
+}

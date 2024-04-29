@@ -1,1 +1,19 @@
-/* Start coding here */
+.box-1 {
+display: flex;  
+background-color: whitesmoke;
+width: 100vw
+height: 60px
+
+}
+
+.box-1{
+  
+}
+
+.box-2 {
+display: flex;  
+background-color: whitesmoke;
+width: 100vw
+height: 60px
+
+}
